@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/bloxd-schematics",
+  "homepage": "https://ahmad-ytre.github.io/bloxd-schematics",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

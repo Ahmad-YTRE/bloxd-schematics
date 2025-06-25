@@ -13,7 +13,7 @@ A beautiful platform for sharing and discovering Bloxd.io schematics. Upload you
 
 ## Live Demo
 
-Visit the live site: [https://yourusername.github.io/bloxd-schematics](https://yourusername.github.io/bloxd-schematics)
+Visit the live site: [https://ahmad-ytre.github.io/bloxd-schematics](https://ahmad-ytre.github.io/bloxd-schematics)
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ Visit the live site: [https://yourusername.github.io/bloxd-schematics](https://y
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bloxd-schematics.git
+git clone https://github.com/ahmad-ytre/bloxd-schematics.git
 cd bloxd-schematics
 ```
 
